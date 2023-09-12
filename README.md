@@ -1,9 +1,5 @@
 # Zou – Farm Landing Page
 
-### Demo
-* [Codepen](https://codepen.io/mustafadalga/pen/KKgYJxP) 
-* [Github Pages](https://mustafadalga.github.io/farm-landing-page/)
-
 
 ### Used technologies
  * HTML5  
